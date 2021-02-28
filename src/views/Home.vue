@@ -73,6 +73,7 @@ export default class Home extends Vue {
 h2,
 h4 {
     font-family: "DotGothic16", sans-serif;
+    padding: 10px;
 }
 .button {
     text-align: center;
